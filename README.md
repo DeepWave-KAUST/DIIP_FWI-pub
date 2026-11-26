@@ -39,16 +39,14 @@ configurations may be required for different combinations of workstation and GPU
 
 ## Cite us 
 ```bibtex
-@article{https://doi.org/10.1111/1365-2478.70203,
-author = {Saad, Omar M. and Alkhalifah, Tariq},
-title = {SiameseFit: Latent Seismic Data Comparison for Enhanced Full Waveform Inversion and Cycle-Skipping Mitigation},
-journal = {Geophysical Prospecting},
-volume = {74},
-number = {5},
-pages = {e70203},
-doi = {https://doi.org/10.1111/1365-2478.70203},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.70203},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2478.70203},
-year = {2026}
+@article{saad2026diffusion,
+  author  = {Saad, Omar M. and Zhang, Hao and Alkhalifah, Tariq},
+  title   = {Diffusion Image Prior for Enhanced Full Waveform Inversion},
+  journal = {Journal of Geophysical Research: Machine Learning and Computation},
+  year    = {2026},
+  volume  = {3},
+  number  = {6},
+  pages   = {e2026JH001602},
+  doi     = {10.1029/2026JH001602}
 }
 

@@ -2,8 +2,6 @@
 
 Reproducible material for **Diffusion Image Prior for Enhanced Full Waveform Inversion - Omar M. Saad, Hao Zhang and Tariq Alkhalifah**
 
-
-
 # Project structure
 This repository is organized as follows:
 

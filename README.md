@@ -7,7 +7,7 @@ This repository is organized as follows:
 
 * :open_file_folder: **Model**: folder containing the diffusion model and the pretrained weights (uploaded to Zenodo https://zenodo.org/records/21432155);
 * :open_file_folder: **asset**: folder containing logo;
-* :open_file_folder: **data**: folder containing data (uploaded to the restricted area);
+* :open_file_folder: **data**: folder containing data (uploaded to Zenodo https://zenodo.org/records/21432155);
 * :open_file_folder: **utils**: folder containing the utilites
 
 ## Notebooks
